@@ -1,0 +1,141 @@
+﻿<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Impresoras3D</title>
+    <link rel="shortcut icon" href="../../img/Kodificados.png">
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/lib/fontawesome-free-6.2.0-web/css/all.css">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Impresoras3D.App.Frontend.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
+            <div class="container">
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <a class="navbar-brand" asp-area="" asp-page="/Index">Impresoras3D</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                </div>
+                <p>@TempData["Id"];&nbsp;</p>
+                <p>@TempData["Nombre"];&nbsp;</p>
+                <p>@TempData["TipoUsuario"]</p>
+                @{  
+                    if(TempData["TipoUsuario"] == "Tecnico")
+                    {
+                        <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                            <ul class="nav nav-tabs">
+                                <li>
+                                    <a class="dropdown-item" asp-page="/Encargados/ListarTecnicos">Lista </a>
+                                </li>
+                            </ul>
+                        </div>
+                    }
+                    if(TempData["TipoUsuario"] == "Operario")
+                    {
+                        <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                            <ul class="nav nav-tabs">
+                                <li>
+                                    <a class="dropdown-item" asp-page="/Encargados/RevisionImpresora">Revision </a>
+                                </li>
+                            </ul>
+                        </div>
+                    }
+                    if(TempData["TipoUsuario"] == "Auxiliar")
+                    {
+                        <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                            <ul class="nav nav-tabs">
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Impresoras</a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <a class="dropdown-item" asp-page="/Impresoras/CrearImpresora">Crear Impresora</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" asp-page="/Impresoras/ListarImpresoras">Lista de Impresoras</a>
+                                        </li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" asp-page="/Impresoras/BuscarImpresora">Buscar Impresora</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Operarios</a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <a class="dropdown-item" asp-page="/Encargados/CrearOperario">Crear Operario</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" asp-page="">Lista de Operarios</a>
+                                        </li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" asp-page="">Buscar Operarios</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Tecnicos</a>
+                                    <ul class="dropdown-menu">
+                                        <li>
+                                            <a class="dropdown-item" asp-page="/Encargados/CrearTecnico">Crear Tecnicos</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" asp-page="/Encargados/CrearOperario">Crear Operario</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" asp-page="">Lista de Tecnicos</a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" asp-page="/Encargados/ListaImpresorasXTecnico">Lista </a>
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" asp-page="/Encargados/CompraRepuestos">Repuestos </a>
+                                        </li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li>
+                                            <a class="dropdown-item" asp-page="">Buscar Tecnicos</a>
+                                        </li>
+                                    </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link text-dark" asp-area="" asp-page="/Impresoras/ComprasSeguros">Seguros</a>
+                                </li>
+                            </ul>
+                        </div>
+                    }
+                }                
+            </div>
+        </nav>
+    </header>
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2022 - Impresoras3D.App.Frontend - <a asp-area="" asp-page="/Privacy">Privacy</a>
+        </div>
+    </footer>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,248 @@
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\appsettings.Development.json
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\appsettings.json
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.staticwebassets.runtime.json
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.exe
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.deps.json
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.runtimeconfig.json
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.pdb
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.csproj.AssemblyReference.cache
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.AssemblyInfoInputs.cache
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.AssemblyInfo.cs
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.csproj.CoreCompileInputs.cache
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.RazorAssemblyInfo.cache
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.RazorAssemblyInfo.cs
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\staticwebassets.build.json
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\staticwebassets.development.json
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\scopedcss\bundle\Impresoras3D.App.Frontend.styles.css
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\scopedcss\projectbundle\Impresoras3D.App.Frontend.bundle.scp.css
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\refint\Impresoras3D.App.Frontend.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.pdb
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.genruntimeconfig.cache
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\ref\Impresoras3D.App.Frontend.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Dominio.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Persistencia.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Dominio.pdb
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Persistencia.pdb
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.csproj.CopyComplete
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\appsettings.Development.json
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\appsettings.json
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.staticwebassets.runtime.json
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.exe
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.deps.json
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.runtimeconfig.json
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.pdb
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Dominio.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Persistencia.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Dominio.pdb
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Persistencia.pdb
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.csproj.AssemblyReference.cache
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.AssemblyInfoInputs.cache
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.AssemblyInfo.cs
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.csproj.CoreCompileInputs.cache
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.RazorAssemblyInfo.cache
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.RazorAssemblyInfo.cs
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\staticwebassets.build.json
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\staticwebassets.development.json
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\scopedcss\bundle\Impresoras3D.App.Frontend.styles.css
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\scopedcss\projectbundle\Impresoras3D.App.Frontend.bundle.scp.css
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.csproj.CopyComplete
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\refint\Impresoras3D.App.Frontend.dll
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.pdb
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.genruntimeconfig.cache
+E:\ESTUDIO\MINTIC\TercerCiclo\DesarrolloSoftware\Proyecto Impresoras\Impresoras3D\nuevo\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\ref\Impresoras3D.App.Frontend.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\appsettings.Development.json
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\appsettings.json
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.staticwebassets.runtime.json
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.exe
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.deps.json
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.runtimeconfig.json
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.pdb
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Dominio.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Persistencia.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Dominio.pdb
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Persistencia.pdb
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.csproj.AssemblyReference.cache
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.AssemblyInfoInputs.cache
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.AssemblyInfo.cs
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.csproj.CoreCompileInputs.cache
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.RazorAssemblyInfo.cache
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.RazorAssemblyInfo.cs
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\staticwebassets.build.json
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\staticwebassets.development.json
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\scopedcss\bundle\Impresoras3D.App.Frontend.styles.css
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\scopedcss\projectbundle\Impresoras3D.App.Frontend.bundle.scp.css
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.csproj.CopyComplete
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\refint\Impresoras3D.App.Frontend.dll
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.pdb
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.genruntimeconfig.cache
+D:\proyecto ciclo3 MT\nuevo impre\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\ref\Impresoras3D.App.Frontend.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\appsettings.Development.json
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\appsettings.json
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.staticwebassets.runtime.json
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.exe
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.deps.json
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.runtimeconfig.json
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Frontend.pdb
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Dominio.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Persistencia.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Dominio.pdb
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\bin\Debug\net6.0\Impresoras3D.App.Persistencia.pdb
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.csproj.AssemblyReference.cache
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.AssemblyInfoInputs.cache
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.AssemblyInfo.cs
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.csproj.CoreCompileInputs.cache
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.RazorAssemblyInfo.cache
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.RazorAssemblyInfo.cs
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\staticwebassets.build.json
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\staticwebassets.development.json
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\scopedcss\bundle\Impresoras3D.App.Frontend.styles.css
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\scopedcss\projectbundle\Impresoras3D.App.Frontend.bundle.scp.css
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.csproj.CopyComplete
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\refint\Impresoras3D.App.Frontend.dll
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.pdb
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\Impresoras3D.App.Frontend.genruntimeconfig.cache
+D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\obj\Debug\net6.0\ref\Impresoras3D.App.Frontend.dll

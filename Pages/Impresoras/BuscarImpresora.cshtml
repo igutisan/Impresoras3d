@@ -1,0 +1,56 @@
+﻿@page
+@model Impresoras3D.App.Frontend.Pages.BuscarImpresoraModel
+@{
+    ViewData["Title"] = "Buscar Impresora";
+}
+
+<br><p>@TempData["Usuario"]</p>
+<form method="POST">
+    <h1>Buscar Impresora</h1>
+    <div class="form-group">
+        <label>Impresora</label>
+        <input type="text" class="form-control" placeholder="Ingrese la Placa del Inventario" name="PlacaInventario"><br>
+        <div class="form-group">
+            <input type="submit" value="Consultar" class="btn- btn-primary" />
+        </div>
+    </div><br>
+    <table class="table">
+        <thead class="thead-dark">
+            <tr>
+                <th scope="col">#</th>
+                <th scope="col">Nombre impresora</th>
+                <th scope="col">Tipo impresora</th>
+                <th scope="col">Descripcion </th>
+                <th scope="col">Placa inventario</th>
+                <th scope="col">Marca</th>
+                <th scope="col">Modelo</th>
+                <th scope="col">Velocidad de impresion</th>
+                <th scope="col">Volumen impresion</th>
+                <th scope="col">Pais origen</th>
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model.impresoralst != null)
+            {
+                @foreach (var impresora in Model.impresoralst)
+                {
+                    <tr>
+                        <th scope="row">@impresora.Id</th>
+                        <td>@impresora.NombreImpresora</td>
+                        <td>@impresora.TipoImpresora</td>
+                        <td>@impresora.DescripcionGeneral</td>
+                        <td>@impresora.PlacaInventario</td>
+                        <td>@impresora.Marca</td>
+                        <td>@impresora.Modelo</td>
+                        <td>@impresora.VelocidadImpresion</td>
+                        <td>@impresora.VolumenImpresion</td>
+                        <td>@impresora.PaisOrigen</td>
+                    </tr>
+                }
+            }else
+            {
+                <h3>No existen impresoras con esa placa</h3>
+            }
+        </tbody>
+    </table>
+</form>

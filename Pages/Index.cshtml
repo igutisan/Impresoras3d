@@ -1,0 +1,91 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+<style>
+    form {
+        border: 3px solid #f1f1f1;
+    }
+    /* Full-width inputs */
+    input[type=text], input[type=password], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    }
+    /* Set a style for all buttons */
+    button {
+    background-color: #04AA6D;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    }
+    /* Add a hover effect for buttons */
+    button:hover {
+    opacity: 0.8;
+    }
+    /* Extra style for the cancel button (red) */
+    .cancelbtn {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #f44336;
+    }
+    .cancelbtn1 {
+    width: auto;
+    padding: 10px 18px;
+    background-color: #00ca20;
+    }
+    /* Add padding to containers */
+    .container {
+    padding: 16px;
+    }
+    /* The "Forgot password" text */
+    span.psw {
+    float: right;
+    padding-top: 16px;
+    }
+</style>
+
+<div class="text-center">
+    <h2 class="display-6">SISTEMA WEB DE IMPRESORAS 3D</h2><i class="fa-solid fa-shredder"></i>
+    <img src="../../img/Kodificados.png" alt="Logo Grupo Kodificados" width="10%"><br>    
+</div><hr>
+<form method="POST">
+  <div class="container">
+    <div class="form-group">
+      <i class="fa-solid fa-user fa-2x"></i>
+      <input asp-for="LoginUser" type="text"  class="text-center" placeholder="Ingrese su Usuario" name="LoginUser" style="height:45px; width:400px;" required><br>
+      <span asp-validation-for="LoginUser" class="text-center"></span>
+    </div>
+    <br>    
+    <div class="form-group">
+      <i class="fa-solid fa-key fa-2x"></i>
+      <input asp-for="Pass" type="password" id="Pass" class="text-center" placeholder="Ingrese su Password" style="height:45px; width:400px;" name="Pass" required><br>
+      <span asp-validation-for="Pass" class="text-center"></span>
+    </div>
+    <p class="text-danger">@ViewData["Error"]</p>
+    <br>
+      <button type="submit" class="cancelbtn1">
+        Acceder
+      </button>
+      <button type="submit" class="cancelbtn">
+        Cancelar
+      </button>
+    </div>
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Recordar
+    </label>
+    <div class="container" style="background-color:#f1f1f1">    
+      <span class="psw">Olvidó <a href="#">password?</a></span>
+    </div>
+    <div class="container" style="background-color:#f1f1f1">    
+      <span class="psw">Olvidó <a href="#">CrearCuenta</a></span>
+    </div>
+  </div>
+</form>

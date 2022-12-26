@@ -1,0 +1,74 @@
+﻿@page
+@model Impresoras3D.App.Frontend.Pages.CrearOperarioModel
+@{
+    ViewData["Title"] = "Adicionar operario";
+}
+<br><p>@TempData["Usuario"]</p>
+<h1>Adicionar operario</h1>
+
+<h3>@ViewData["Error"]</h3>
+
+<div class="form-horizontal">
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <h3>@ViewData["Error"]</h3>
+            <form method="POST">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="row">
+                    <div class="form-group col-sm-6">
+                        <label asp-for="operario.Nombres" class="control-label">Nombre</label>
+                        <input type="text" asp-for="operario.Nombres" class="form-control" />
+                        <span asp-validation-for="operario.Nombres" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-sm-6">
+                        <label asp-for="operario.Apellidos" class="control-label">Apellidos</label>
+                        <input asp-for="operario.Apellidos" type="text" class="form-control" />
+                        <span asp-validation-for="operario.Apellidos" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-sm-6">
+                        <label asp-for="operario.FechaNacimiento" class="control-label">Fecha de nacimiento </label>
+                        <input  asp-for="operario.FechaNacimiento" class="form-control" />
+                        <span asp-validation-for="operario.FechaNacimiento" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-sm-6">
+                        <label asp-for="operario.Direccion" class="control-label">Direccion</label>
+                        <input asp-for="operario.Direccion" type="text" class="form-control" />
+                        <span asp-validation-for="operario.Direccion" class="text-danger"></span>
+                    </div>
+                     <div class="form-group col-sm-6">
+                        <label asp-for="operario.CorreoElectronico" class="control-label">Correo electronico</label>
+                        <input asp-for="operario.CorreoElectronico" type="text" class="form-control" />
+                        <span asp-validation-for="operario.CorreoElectronico" class="text-danger"></span>
+                    </div>
+                     <div class="form-group col-sm-6">
+                        <label asp-for="operario.NumeroTelefono" class="control-label">Numero de telefono</label>
+                        <input asp-for="operario.NumeroTelefono" type="text" class="form-control" />
+                        <span asp-validation-for="operario.NumeroTelefono" class="text-danger"></span>
+                    </div>
+                     <div class="form-group col-sm-6">
+                        <label asp-for="operario.NivelEstudios" class="control-label">Nivel de estudios</label>
+                        <input asp-for="operario.NivelEstudios" type="text" class="form-control" />
+                        <span asp-validation-for="operario.NivelEstudios" class="text-danger"></span>
+                    </div>
+                     <div class="form-group col-sm-6">
+                        <label asp-for="operario.LoginUsuario" class="control-label">Login</label>
+                        <input asp-for="operario.LoginUsuario" type="text" class="form-control" />
+                        <span asp-validation-for="operario.LoginUsuario" class="text-danger"></span>
+                    </div>
+                    </div>
+                     <div class="form-group col-sm-6">
+                        <label asp-for="operario.Password" class="control-label">Password</label>
+                        <input asp-for="operario.Password" type="text" class="form-control" />
+                        <span asp-validation-for="operario.Password" class="text-danger"></span>
+                    </div>
+                  <br>
+                <div class="form-group">
+                    <input type="submit" value="Guardar" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+                    
+         

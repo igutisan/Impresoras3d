@@ -1,0 +1,52 @@
+@page
+@model Impresoras3D.App.Frontend.Pages.ListarOperariosModel
+@{
+}
+<p>
+    @TempData["Usuario"]
+</p>
+
+<form method="POST">
+    <h1>Listado de Operarios</h1>
+    <div class="form-group">        
+        <table class="table  table-hover table-bordered center">
+            <thead class="thead-dark">
+                <tr align="center">
+                    <th scope="col">#</th>
+                    <th scope="col">Nombre Impresora</th>
+                    <th scope="col">Tipo Impresora</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                @if(Model.operario != null)
+                {
+                    @foreach (var item in Model.operario)
+                    {
+                        <tr align="center">
+                            <th scope="row">@item.Id</th>
+                            <td>@item.Nombres</td>
+                            <td>@item.Apellidos</td>
+                            <td>@item.FechaNacimiento</td>
+                            
+                            @if (@item.Id != null)
+                            {
+                                <td>
+                                @* <a asp-page="./CrearImpresora" class="btn btn-danger" asp-route-id="@impresora.Id">Crear</a> *@
+                                @* <a asp-page="./VerImpresora" class="btn btn-warning" asp-route-PlacaInventario="@impresora.PlacaInventario">Consultar</a> 
+                                <a asp-page="./EditarImpresora" class="btn btn-primary" asp-route-id="@impresora.Id">Editar</a>
+                                <a asp-page="/Encargados/ListadoRevisiones" class="btn btn-warning" asp-route-id="@impresora.Id">HistorialRevision</a>*@
+                                <a asp-page="/Encargados/ListarImpresorasXOperario" class="btn btn-danger" asp-route-id="@item.Id">Impresoras</a>
+                            </td>
+                            }
+                            
+                        </tr>                
+                    }
+                }else
+                {
+                    <h3>No existen Impresoras con esa Placa</h3>
+                }
+            </tbody>
+        </table>
+    </div>
+</form>

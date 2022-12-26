@@ -1,0 +1,100 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Impresoras3D.App.Frontend
+build_property.RootNamespace = Impresoras3D.App.Frontend
+build_property.ProjectDir = D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\proyecto ciclo3 MT\py\Impresoras3D.App\Impresoras3D.App.Frontend
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Encargados/CompraRepuestos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW5jYXJnYWRvc1xDb21wcmFSZXB1ZXN0b3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Encargados/CrearOperario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW5jYXJnYWRvc1xDcmVhck9wZXJhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Encargados/CrearTecnico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW5jYXJnYWRvc1xDcmVhclRlY25pY28uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Encargados/ListadoRevisiones.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW5jYXJnYWRvc1xMaXN0YWRvUmV2aXNpb25lcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Encargados/ListaImpresorasXTecnico.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW5jYXJnYWRvc1xMaXN0YUltcHJlc29yYXNYVGVjbmljby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Encargados/ListarImpresorasXOperario.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW5jYXJnYWRvc1xMaXN0YXJJbXByZXNvcmFzWE9wZXJhcmlvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Encargados/ListarOperarios.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW5jYXJnYWRvc1xMaXN0YXJPcGVyYXJpb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Encargados/ListarTecnicos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW5jYXJnYWRvc1xMaXN0YXJUZWNuaWNvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Encargados/RevisionImpresora.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW5jYXJnYWRvc1xSZXZpc2lvbkltcHJlc29yYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Impresoras/BuscarImpresora.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW1wcmVzb3Jhc1xCdXNjYXJJbXByZXNvcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Impresoras/ComprasSeguros.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW1wcmVzb3Jhc1xDb21wcmFzU2VndXJvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Impresoras/CrearImpresora.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW1wcmVzb3Jhc1xDcmVhckltcHJlc29yYS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Impresoras/EditarImpresora.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW1wcmVzb3Jhc1xFZGl0YXJJbXByZXNvcmEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Impresoras/ListarImpresoras.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW1wcmVzb3Jhc1xMaXN0YXJJbXByZXNvcmFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/proyecto ciclo3 MT/py/Impresoras3D.App/Impresoras3D.App.Frontend/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-giz5tohkwj

@@ -1,0 +1,69 @@
+﻿@page
+@model Impresoras3D.App.Frontend.Pages.CompraRepuestosModel
+@{
+    ViewData["Title"] = "Adicionar Compra";
+}
+<br><p>@TempData["Usuario"]</p>
+<h1>Adicionar Compra</h1>
+
+<h3>@ViewData["Error"]</h3>
+<div class="form-group">
+ 
+
+</div>
+            
+<div class="form-horizontal">
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <h3>@ViewData["Error"]</h3>
+             
+            <form method="POST">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="row">
+                    
+                    <div class="form-group col-sm-6">
+                        <label asp-for="compras.NombreRepuesto" class="control-label">Nombre de repuesto</label>
+                        <input asp-for="compras.NombreRepuesto" type="text" class="form-control" />
+                        <span asp-validation-for="compras.NombreRepuesto" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-sm-6">
+                        <label asp-for="compras.ValorCompra" class="control-label">Valor de compra </label>
+                        <input  asp-for="compras.ValorCompra" type="number" class="form-control" />
+                        <span asp-validation-for="compras.ValorCompra" class="text-danger"></span>
+                    </div>
+                     <div class="form-group col-sm-6">
+                        <label asp-for="compras.Justificacion" class="control-label">Justificacion de compra</label>
+                        <input asp-for="compras.Justificacion" type="text" class="form-control" />
+                        <span asp-validation-for="compras.Justificacion" class="text-danger"></span>
+                    </div>
+                      <div class="form-group col-sm-6">
+                        <label asp-for="compras.FechaCompra" class="control-label">Fecha de compra</label>
+                        <input asp-for="compras.FechaCompra" type="date" class="form-control" />
+                        <span asp-validation-for="compras.FechaCompra" class="text-danger"></span>
+                    </div>
+                      <div class="form-group">
+                        <label asp-for="compras.Impresora3DId" ></label>
+                        <select asp-for="compras.Impresora3DId" class="form-control" >
+                            @foreach (var item in Model.impresoralst)
+                            {
+                                <option value="@item.Id">@item.PlacaInventario</option>
+                            }
+                        </select>
+                        <span asp-validation-for="compras.Impresora3DId" class="text-danger"></span>
+                    </div>
+                    @*<div class="form-group col-sm-6">
+                        <label asp-for="tecnico.NumeroTelefono" class="control-label">Numero de telefono</label>
+                        <input asp-for="tecnico.NumeroTelefono" type="text" class="form-control" />
+                        <span asp-validation-for="tecnico.NumeroTelefono" class="text-danger"></span>
+                   </div>*@ 
+                   
+                  <br>
+                <div class="form-group">
+                    <input type="submit" value="Guardar" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

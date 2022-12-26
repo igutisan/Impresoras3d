@@ -1,0 +1,63 @@
+﻿@page
+@model Impresoras3D.App.Frontend.Pages.ListarImpresorasModel
+@{
+    ViewData["Title"] = "Listado Impresoras Registradas";
+}
+
+<p>
+    @TempData["Usuario"]
+</p>
+<p>
+    <a asp-page="./CrearImpresora" class="btn btn-primary">Crear Impresora</a>
+</p>
+<form method="POST">
+    <h1>Listado de Impresoras</h1>
+    <div class="form-group">        
+        <table class="table  table-hover table-bordered center">
+            <thead class="thead-dark">
+                <tr align="center">
+                    <th scope="col">#</th>
+                    <th scope="col">Nombre Impresora</th>
+                    <th scope="col">Tipo Impresora</th>
+                    <th scope="col">Descripcion </th>
+                    <th scope="col">Placa Inventario</th>
+                    <th scope="col">Marca</th>
+                    <th scope="col">Modelo</th>
+                    <th scope="col">Velocidad de impresion</th>
+                    <th scope="col">Volumen impresion</th>
+                    <th scope="col">Pais origen</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if(Model.impresoralst != null)
+                {
+                    @foreach (var impresora in Model.impresoralst)
+                    {
+                        <tr align="center">
+                            <th scope="row">@impresora.Id</th>
+                            <td>@impresora.NombreImpresora</td>
+                            <td>@impresora.TipoImpresora</td>
+                            <td>@impresora.DescripcionGeneral</td>
+                            <td>@impresora.PlacaInventario</td>
+                            <td>@impresora.Marca</td>
+                            <td>@impresora.Modelo</td>
+                            <td>@impresora.VelocidadImpresion</td>
+                            <td>@impresora.VolumenImpresion</td>
+                            <td>@impresora.PaisOrigen</td>
+                            <td>
+                                @* <a asp-page="./CrearImpresora" class="btn btn-danger" asp-route-id="@impresora.Id">Crear</a> *@
+                                @* <a asp-page="./VerImpresora" class="btn btn-warning" asp-route-PlacaInventario="@impresora.PlacaInventario">Consultar</a> *@
+                                <a asp-page="./EditarImpresora" class="btn btn-primary" asp-route-id="@impresora.Id">Editar</a>
+                                <a asp-page="/Encargados/ListadoRevisiones" class="btn btn-warning" asp-route-id="@impresora.Id">HistorialRevision</a>
+                                <a asp-page="/Encargados/RevisionImpresora" class="btn btn-danger" asp-route-id="@impresora.Id">Revision</a>
+                            </td>
+                        </tr>                
+                    }
+                }else
+                {
+                    <h3>No existen Impresoras con esa Placa</h3>
+                }
+            </tbody>
+        </table>
+    </div>
+</form>

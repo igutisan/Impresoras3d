@@ -1,0 +1,129 @@
+﻿@page
+@model Impresoras3D.App.Frontend.Pages.ComprasSegurosModel
+@{
+    ViewData["Title"] = "Agregar Seguro";
+}
+
+<br>
+<p>@TempData["Usuario"]</p>
+
+<h1>Agregar</h1>
+<h4>Seguro</h4>
+<h3>@ViewData["Error"]</h3>
+
+
+@*<div class="form-horizontal">
+    <hr/>
+    <div class="row">
+        <div class="col-md-4">
+            <h3>@ViewData["Error"]</h3>
+            <form method="POST">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="row">
+                    <div class="form-group col-sm-6">
+                        <label asp-for="seguro.TipoSeguro" class="control-label">TipoSeguro</label>
+                        <input type="text" asp-for="seguro.TipoSeguro" class="form-control" />
+                        <span asp-validation-for="seguro.TipoSeguro" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-sm-6">
+                        <label asp-for="seguro.NombreEmpresaAseguradora" class="control-label">Empresa </label>
+                        <input asp-for="seguro.NombreEmpresaAseguradora" type="text" class="form-control" />
+                        <span asp-validation-for="seguro.NombreEmpresaAseguradora" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-sm-6">
+                        <label asp-for="seguro.NumeroDePoliza" class="control-label">numero de poliza </label>
+                        <input type="text" asp-for="seguro.NumeroDePoliza" class="form-control" />
+                        <span asp-validation-for="seguro.NumeroDePoliza" class="text-danger"></span>
+                    </div>
+                    
+                    <div class="form-group col-sm-6">
+                        <label asp-for="seguro.FechaInicioVigencia" class="control-label">inicio </label>
+                        <input  asp-for="seguro.FechaInicioVigencia" class="form-control" />
+                        <span asp-validation-for="seguro.FechaInicioVigencia" class="text-danger"></span>
+                
+                    <div class="form-group col-sm-6">
+                        <label asp-for="seguro.FechaFinVigencia class="control-label">fin </label>
+                        <input asp-for="seguro.FechaFinVigencia"  class="form-control" />
+                        <span asp-validation-for="seguro.FechaFinVigencia" class="text-danger"></span>
+                    </div>
+                     <div class="form-group col-sm-6">
+                        <label asp-for="seguro.Impresora3DId class="control-label">impresora </label>
+                        <input asp-for="seguro.Impresora3DId" type="text" class="form-control" />
+                        <span asp-validation-for="seguro.Impresora3DId" class="text-danger"></span>
+                    </div>
+                   <br>
+                </div><br>
+                <div class="form-group">
+                    <input type="submit" value="Guardar" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+    </div>
+</div>*@
+<div class="form-horizontal">
+    <hr />
+    <div class="row">
+        <div class="col-md-4">
+            <h3>@ViewData["Error"]</h3>
+            <form method="POST">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="row">
+                    <div>
+                        <label asp-for="seguro.Impresora3DId"></label>
+                        <select asp-for="seguro.Impresora3DId" class="form-control">
+                            
+                        @foreach (var item in Model.impresoralst)
+                        {
+                            <option value="@item.Id">@item.PlacaInventario</option>
+                        }
+                   </select>
+                    <span asp-validation-for="seguro.Impresora3DId" class="text-danger"></span>
+                   
+                    </div>
+
+                    
+                    @*<div class="form-group col-sm-6">
+                        <label asp-for="seguro.Impresora3DId" class="control-label"> Impresora </label>
+                        <input asp-for="seguro.Impresora3DId" type="text" class="form-control" />
+                        <span asp-validation-for="seguro.Impresora3DId" class="text-danger"></span>
+                    </div> *@
+                    <div class="form-group">
+                        <label asp-for="seguro.TipoSeguro"></label>
+                        <select asp-for="seguro.TipoSeguro" class="form-control">
+                            <option value="" disabled="" selected="">Selecciona el tipo de seguro</option>
+                            <option value="Robo">Robo</option>
+                            <option value="Calamidad">Calamidad</option>
+                            <option value="Contractual">Contactual</option>
+                            <option value="ExtraContactual">ExtraContactual</option>
+                        </select>
+                        <span asp-validation-for="seguro.TipoSeguro" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-sm-6">
+                        <label asp-for="seguro.NombreEmpresaAseguradora" class="control-label"> Empresa Aseguradora </label>
+                        <input asp-for="seguro.NombreEmpresaAseguradora" type="text" class="form-control" />
+                        <span asp-validation-for="seguro.NombreEmpresaAseguradora" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-sm-6">
+                        <label asp-for="seguro.NumeroDePoliza" class="control-label">Numero de Poliza </label>
+                        <input type="text" asp-for="seguro.NumeroDePoliza" class="form-control" />
+                        <span asp-validation-for="seguro.NumeroDePoliza" class="text-danger"></span>
+                    </div>
+                    
+                    <div class="form-group col-sm-6">
+                        <label asp-for="seguro.FechaInicioVigencia" class="control-label">Inicio de vigencia</label>
+                        <input asp-for="seguro.FechaInicioVigencia" class="form-control" />
+                        <span asp-validation-for="seguro.FechaInicioVigencia" class="text-danger"></span>
+                    </div>
+                    <div class="form-group col-sm-6">
+                        <label asp-for="seguro.FechaFinVigencia" class="control-label">Fin de Vigencia </label>
+                        <input asp-for="seguro.FechaFinVigencia" class="form-control" />
+                        <span asp-validation-for="seguro.FechaFinVigencia" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <input type="submit" value="Guardar" class="btn btn-primary" />
+                    </div>
+            </form>
+        </div>
+    </div>
+</div>
